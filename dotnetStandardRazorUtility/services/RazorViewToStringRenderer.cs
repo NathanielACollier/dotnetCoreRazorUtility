@@ -14,7 +14,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace dotnetStandardRazorUtility
+namespace dotnetStandardRazorUtility.services
 {
     public class RazorViewToStringRenderer
     {
